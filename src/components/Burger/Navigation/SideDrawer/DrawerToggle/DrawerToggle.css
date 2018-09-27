@@ -1,0 +1,10 @@
+.Menu {
+    color: white;
+    cursor: pointer;
+}
+
+@media (min-width: 500px) {
+    .Menu {
+        display: none;
+    }
+}
